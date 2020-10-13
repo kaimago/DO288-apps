@@ -1,0 +1,2 @@
+NAME       HOST/PORT                                                       PATH   SERVICES   PORT   TERMINATION   WILDCARD
+todo-api   todo-api-kai-goerlich-todo-migrate.apps.eu45.prod.nextcle.com          todo-api   8080                 None
